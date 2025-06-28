@@ -506,7 +506,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/v2/",
+      "plot": "plote/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

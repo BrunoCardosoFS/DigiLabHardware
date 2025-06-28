@@ -2039,6 +2039,16 @@
 		)
 		(uuid "6b5522ea-c356-4e8e-88c2-5ef96475dda2")
 	)
+	(text "This source describes Open Hardware and is licensed under the CERN-OHL-S v2.\nYou may redistribute and modify this file under the terms of the CERN-OHL-S v2.\nA copy of the license is available at https://ohwr.org/cernohl"
+		(exclude_from_sim no)
+		(at 231.14 174.244 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "c7f2d595-52a4-44bc-87b6-3fd690f93e17")
+	)
 	(junction
 		(at 137.16 113.03)
 		(diameter 0)
